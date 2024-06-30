@@ -1,6 +1,6 @@
 ## Distinguish Real and Fake Images
 
-We are analyzing state of the art models to distinguish Real and Fake Human Faces. The StyleGan2 and other AI generated Images are used for the analysis.
+We analysed the state of the art models to distinguish Real and Fake Human Faces. The StyleGan2 and other AI generated Images are used for the analysis.
 
 ### Datasets Used:
 
